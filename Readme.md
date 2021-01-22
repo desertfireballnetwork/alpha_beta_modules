@@ -11,3 +11,8 @@ This uses the exponential atmosphere simplification. To use a complete atmospher
 - MPI4py
 
 Example csv file provided.
+
+## Run online interactive notebook on binder
+Click binder link here for online use. Be careful, changes will not be saved. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/desertfireballnetwork/alpha_beta_modules/HEAD)
